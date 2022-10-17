@@ -22,3 +22,8 @@
 6. Selanjutnya pemilihan direktori start menu, klik Next>.
 
 ![Gambar5](Image/Tutorial4.jpg)
+
+7. Selanjutnya pengaturan PATH Environment. Pilih yang tengah agar perintah Git dapat di kenali di Command Prompt (CMD). Setelah itu klik Next>.
+
+![Gambar6](Image/Tutorial5.jpg)
+
