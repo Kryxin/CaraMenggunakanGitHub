@@ -56,5 +56,6 @@
 1. Pertama kita harus mengkonfigurasikan akun global yaitu nama user dan email agar tidak terjadi eror ketika menjalankan perintah git commit, dengan cara :
 
    -> git config --global user.name "name"
+   
    -> git config --global user.email "email"
 
