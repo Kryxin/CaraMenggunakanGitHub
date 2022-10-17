@@ -43,3 +43,7 @@
 
 ![Gambar10](Image/Tutorial15.jpg)
 
+12. Tunggu beberapa saat, hingga instalasi selesai.
+
+![Gambar11](Image/LoadingInstalation.jpg)
+
