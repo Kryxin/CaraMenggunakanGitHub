@@ -47,3 +47,7 @@
 
 ![Gambar11](Image/LoadingInstalation.jpg)
 
+13. Aplikasi terpasang, klik Finish dan Git sudah bisa di gunakan.
+
+![Gambar12](Image/Finish.jpg)
+
