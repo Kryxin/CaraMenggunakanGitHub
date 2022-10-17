@@ -19,3 +19,6 @@
 
 ![Gambar4](Image/Tutorial3.jpg)
 
+6. Selanjutnya pemilihan direktori start menu, klik Next>.
+
+![Gambar5](Image/Tutorial4.jpg)
