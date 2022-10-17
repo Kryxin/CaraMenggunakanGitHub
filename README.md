@@ -31,3 +31,6 @@
 
 ![Gambar7](Image/Tutorial10.jpg)
 
+9. Selanjutnya pemilihan emulator terminal. Biarkan seperti default, kemudian klik Next>.
+
+![Gambar8](Image/Tutorial11.jpg)
