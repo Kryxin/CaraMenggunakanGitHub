@@ -39,3 +39,7 @@
 
 ![Gambar9](Image/Tutorial14.jpg)
 
+11. Selanjutnya pemilihan opsi eksperimental, Biarkan seperti default, kemudian klik Instal untuk memulai instalasi.
+
+![Gambar10](Image/Tutorial15.jpg)
+
