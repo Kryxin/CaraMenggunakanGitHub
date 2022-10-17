@@ -9,5 +9,5 @@
 
 3. Setelah aplikasi GIT dibuka maka akan muncul informasi lisensi Git, klik Next > untuk melanjutkan.
 
-![Gambar 2](Iamge/Tutorial1.jpg)
+![Gambar 2](Image/Tutorial1.jpg)
 
