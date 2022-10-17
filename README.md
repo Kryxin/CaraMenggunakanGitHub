@@ -27,3 +27,7 @@
 
 ![Gambar6](Image/Tutorial7.jpg)
 
+8. Selanjutnya konversi line ending. Biarkan saja seperti default, kemudian klik Next>.
+
+![Gambar7](image/Tutorial10.jpg)
+
