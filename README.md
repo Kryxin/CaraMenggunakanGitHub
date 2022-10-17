@@ -11,3 +11,6 @@
 
 ![Gambar 2](Image/Tutorial1.jpg)
 
+4. Selanjutnya menentukan lokasi instalasi. Sesuaikan dengan default penyimpanan anda, kemudian klik Next>.
+
+![Gambar3](Image/Tutorial2.jpg)
