@@ -14,3 +14,8 @@
 4. Selanjutnya menentukan lokasi instalasi. Sesuaikan dengan default penyimpanan anda, kemudian klik Next>.
 
 ![Gambar3](Image/Tutorial2.jpg)
+
+5. Selanjutnya pemilihan komponen, biarkan saja sesuai default dan gambar dibawah ini, lalu klik Next>.
+
+![Gambar4](Image/Tutorial3.jpg)
+
