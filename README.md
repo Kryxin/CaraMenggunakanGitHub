@@ -35,3 +35,7 @@
 
 ![Gambar8](Image/Tutorial11.jpg)
 
+10. Selanjutnya pemilihan opsi ekstra. Biarkan seperti default, kemudian klik Next>. 
+
+![Gambar9](Image/Tutorial14.jpg)
+
