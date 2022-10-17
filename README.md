@@ -25,5 +25,5 @@
 
 7. Selanjutnya pengaturan PATH Environment. Pilih yang tengah agar perintah Git dapat di kenali di Command Prompt (CMD). Setelah itu klik Next>.
 
-![Gambar6](Image/Tutorial5.jpg)
+![Gambar6](Image/Tutorial7.jpg)
 
